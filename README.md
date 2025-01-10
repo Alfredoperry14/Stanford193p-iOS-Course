@@ -75,4 +75,4 @@ Through this course, I gained proficiency in:
 - [Stanford CS193p Course Website](https://cs193p.sites.stanford.edu/)
 - Each assignment folder contains the original PDF with requirements and my implementation
 
-## Thank you very much to Professor Hegarty for making the course public
+### Thank you very much to Professor Hegarty for making the course public!
