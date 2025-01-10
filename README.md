@@ -1,6 +1,6 @@
 # Stanford CS193p iOS Development Course
 
-This repository contains my completed assignments from Stanford's CS193p iOS Application Development course (Spring 2023). The course focused on developing iOS applications using SwiftUI and emphasizes the MVVM architecture pattern.
+This repository contains my completed assignments from Stanford's public course (CS193p iOS Application Development course). The course focused on developing iOS applications using SwiftUI and emphasizes the MVVM architecture pattern.
 
 ## 🎯 Course Overview
 
@@ -69,10 +69,6 @@ Through this course, I gained proficiency in:
 4. Managing app state and persistence
 5. Creating responsive and adaptive layouts
 6. Writing clean, maintainable Swift code
-
-## 🎓 Course Completion
-
-I completed 5 out of 6 assignments, focusing on core iOS development concepts and building increasingly complex applications. Each assignment built upon previous knowledge while introducing new concepts and challenges.
 
 ## 🔗 Resources
 
