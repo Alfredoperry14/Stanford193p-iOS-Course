@@ -75,6 +75,4 @@ Through this course, I gained proficiency in:
 - [Stanford CS193p Course Website](https://cs193p.sites.stanford.edu/)
 - Each assignment folder contains the original PDF with requirements and my implementation
 
----
-
-*Note: This repository represents my personal work on the Stanford CS193p course assignments. All code was written from scratch following course guidelines.*
+## Thank you very much to Professor Hegarty for making the course public
